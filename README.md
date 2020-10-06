@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://music.youtube.com/watch?v=JUewJm2ssBw&feature=gws_kp_track)
+[<img src="https://music.youtube.com/watch?v=JUewJm2ssBw&feature=gws_kp_track" alt="Ankan Playing" width="350" />](https://music.youtube.com/watch?v=JUewJm2ssBw&feature=gws_kp_track)
 
 ### Connect with me:
 
