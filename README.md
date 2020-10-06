@@ -12,7 +12,8 @@
 ## You can found me at
 
 [<img src="https://img.icons8.com/ios-glyphs/38/000000/linkedin.png"/>](https://www.linkedin.com/in/ankan-sharma-589841198/)<br>
-[<img src="https://img.icons8.com/ios-glyphs/38/000000/blogger.png"/>](http://datasciencey.blogspot.com/)
+[<img src="https://img.icons8.com/ios-glyphs/38/000000/blogger.png"/>](http://datasciencey.blogspot.com/)<br>
+[<img src="https://img.icons8.com/windows/36/000000/kaggle.png"/>](https://www.kaggle.com/ankan1998)
 
 [website]: http://datasciencey.blogspot.com/
 [linkedIn]: https://www.linkedin.com/in/ankan-sharma-589841198/
