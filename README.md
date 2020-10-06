@@ -1,4 +1,4 @@
-### Hi there, I'm Ankan [http://datasciencey.blogspot.com/] 😃
+### Hi there, I'm Ankan [website] 😃
 
 
 ## I'm a Developer, Data Science Enthusiast
@@ -85,7 +85,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: http://datasciencey.blogspot.com/
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
