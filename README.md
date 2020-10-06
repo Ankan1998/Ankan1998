@@ -10,10 +10,9 @@
 - 💖 Hobbies: I love digital art, history and geopolitics
 
 ## You can found me at
-LinkedIn --> [linkedIn]
-Kaggle --> [kaggle]
 
-
+[<img src="https://img.icons8.com/android/24/000000/linkedin.png"/>](https://www.linkedin.com/in/ankan-sharma-589841198/)
+[<img src="https://img.icons8.com/ios-filled/28/000000/blogger.png"/>](http://datasciencey.blogspot.com/)
 
 [website]: http://datasciencey.blogspot.com/
 [linkedIn]: https://www.linkedin.com/in/ankan-sharma-589841198/
