@@ -1,4 +1,4 @@
-### Hi there, I'm Ankan [datasciency.blogspot.com] 😃
+### Hi there, I'm Ankan [http://datasciencey.blogspot.com/] 😃
 
 
 ## I'm a Developer, Data Science Enthusiast
@@ -9,7 +9,7 @@
 - 👀 2020 Goals: Learn and built more deep learning projets
 - 💖 Hobbies: I love digital art, history and geopolitics
 
-### Spotify Playing 🎧
+### Playing 🎧
 
 [<img src="https://music.youtube.com/watch?v=JUewJm2ssBw&feature=gws_kp_track" alt="Ankan Playing" width="350" />](https://music.youtube.com/watch?v=JUewJm2ssBw&feature=gws_kp_track)
 
@@ -46,16 +46,6 @@
 <br />
 
 ---
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [NEW GitHub CLI 1.0 Tutorial | FREE Swag! | Hacktoberfest UPDATE | Step-by-Step Guide | Web Developer](https://www.youtube.com/watch?v=Uzcr9YrdODU)
-- [React 17: New Features!! - JSX Transform is Amazing!!](https://www.youtube.com/watch?v=8D-rWP3c088)
-- [How To Make Responsive Website | Animated Hamburger Menu | HTML & CSS | Step By Step Tutorial 2020](https://www.youtube.com/watch?v=nME3fE3c9Qw)
-- [Become A VS Code SuperHero Today! | Course Launch](https://www.youtube.com/watch?v=MIsHYGZ3MwQ)
-- [How to Create a VS Code Extension Pack | Top Extensions | Download SuperHero Extension Pack Now!!](https://www.youtube.com/watch?v=DvNXEBxO3YQ)
-<!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 
