@@ -9,6 +9,8 @@
 - 👀 2020 Goals: Learn and built more deep learning projets
 - 💖 Hobbies: I love digital art, history and geo-politics
 
+
+
 ## You can found me at
 
 [<img src="https://img.icons8.com/ios-glyphs/38/000000/linkedin.png"/>](https://www.linkedin.com/in/ankan-sharma-589841198/)
@@ -19,10 +21,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ankan1998&&show_icons=true&title_color=1FC107&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
----
-
-![](Hnet-image.gif)
-                                                                              
 ---
 
 [website]: http://datasciencey.blogspot.com/
