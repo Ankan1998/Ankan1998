@@ -28,11 +28,10 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Ankan's GitHub Stats" src="https://github-readme-stats.Ankan1998.vercel.app/api?username=Ankan1998&show_icons=true&hide_border=true" />
-
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ankan1998)]
 </details>
+
+
 [website]: http://datasciencey.blogspot.com/
 [linkedin]: https://www.linkedin.com/in/ankan-sharma-589841198/
 [kaggle]: https://www.kaggle.com/ankan1998
