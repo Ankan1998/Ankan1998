@@ -5,7 +5,7 @@
 
 - 🔭 I joined as AI engineer Intern at DCKAP
 - 🔘 I’m currently focusing on deep learning
-- 😍 Areas of Interest Computer Vision, GAN and NLP
+- 😍 Areas of Interest Computer Vision, NLP and GAN
 - 👥 I’m looking to collaborate with developers on deep learning projects
 - 👀 2020 Goals: Learn and built more deep learning projets
 - 💖 Hobbies: I love digital art, history and geo-politics
