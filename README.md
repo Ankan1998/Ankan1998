@@ -9,6 +9,7 @@
 - 👥 I’m looking to collaborate with developers on deep learning projects
 - 👀 2020 Goals: Learn and built more deep learning projets
 - 💖 Hobbies: I love digital art, history and geo-politics
+- 💕 Getting into relationship with Julia
 
 
 
