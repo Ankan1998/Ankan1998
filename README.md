@@ -1,7 +1,7 @@
 ### Hi there, I'm Ankan [website] 😃
 
 
-## I'm a Data Science and Cybersecurity Enthusiast, Kaggler
+## I'm a Data Science Enthusiast, Kaggler
 
 - 🔭 I joined as AI Engineer Intern at DCKAP
 - 🔘 I’m currently focusing on deep learning
