@@ -10,6 +10,7 @@
 - 👀 2020 Goals: Learn and built more deep learning projets
 - 💖 Hobbies: I love digital art, history and geo-politics
 - 💕 Targeting RL with start of 2021
+- 🌹 Falling in love with Unsupervised Deep Learning
 
 
 
