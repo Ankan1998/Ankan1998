@@ -9,7 +9,7 @@
 - 👥 I’m looking to collaborate with developers on deep learning projects
 - 👀 2020 Goals: Learn and built more deep learning projets
 - 💖 Hobbies: I love digital art, history and geo-politics
-- 💕 Targeting RL with start of 2021
+- 💕 Targeting Reinforcement Learning with start of 2021
 - 🌹 Falling in love with Unsupervised Deep Learning
 
 
