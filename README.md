@@ -3,7 +3,7 @@
 
 ## I'm a Data Science Enthusiast, Kaggler
 
-- 🔭 I joined as AI Engineer Intern at DCKAP
+- 🔭 Former AI Engineer Intern at DCKAP
 - 🔘 I’m currently focusing on deep learning
 - 😍 Areas of Interest Computer Vision, NLP and GAN
 - 👥 I’m looking to collaborate with developers on deep learning projects
