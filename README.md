@@ -22,7 +22,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankan1998&&show_icons=true&title_color=1FC107&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+
 
 ---
 
