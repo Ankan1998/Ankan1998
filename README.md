@@ -7,7 +7,7 @@
 - 🔘 I’m currently focusing on deep learning
 - 😍 Areas of Interest Computer Vision, NLP and GAN
 - 👥 I’m looking to collaborate with developers on Research paper based Deep Learning Advanced Library
-- 👀 2020 Goals: Learn and built more deep learning projets
+- 👀 2021 Goals: Deep Dive into Advance Deep Learning Architecture
 - 💖 Hobbies: Digital art, History and geo-politics
 - 🧿 Focusing on NLP
 - 🌹 Falling in love with Unsupervised Deep Learning
