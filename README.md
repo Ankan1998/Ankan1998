@@ -3,7 +3,7 @@
 
 ## I'm a Data Science Enthusiast, Kaggler
 
-- 🔭 Former AI Engineer Intern at DCKAP
+- 🔭 Jr. Automation Engineer at Allied Media | Visual Intelligence Lab
 - 🔘 I’m currently focusing on deep learning
 - 😍 Areas of Interest Computer Vision, NLP and GAN
 - 👥 I’m looking to collaborate with developers on Research paper based Deep Learning Advanced Library
