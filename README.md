@@ -10,7 +10,7 @@
 - 👀 2021 Goals: Deep Dive into Advance Deep Learning Architecture
 - 💖 Hobbies: Digital art, History and geo-politics
 - 🧿 Focusing on NLP
-- 🌹 Falling in love with Unsupervised Deep Learning
+
 
 
 
