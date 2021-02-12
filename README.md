@@ -1,7 +1,7 @@
 ### Hi there, I'm Ankan [website] 😃
 
 
-## I'm a Data Science Enthusiast, Kaggler
+
 
 - 💰 Jr. Automation Engineer at Allied Media | Visual Intelligence Lab
 - 🔘 I’m currently focusing on deep learning
