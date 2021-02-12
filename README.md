@@ -11,7 +11,7 @@
 - 💖 Hobbies: Digital art, History and geo-politics
 - 🧿 Focusing on NLP
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Ankan1998)
+
 
 
 ## You can found me at
