@@ -15,6 +15,7 @@
 
 ### Languages and Tools:
 
-![iconfinder_7088889_medium_medium logo_icon_64px](https://user-images.githubusercontent.com/36896102/121735034-35102600-cb13-11eb-8ca3-8e2a84414ffe.png)
+![iconfinder_7088889_medium_medium logo_icon_32px](https://user-images.githubusercontent.com/36896102/121735133-553fe500-cb13-11eb-8bc3-06b54689ec33.png)
+
 
 
