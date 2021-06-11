@@ -35,6 +35,12 @@
 <br />
 
 
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+
+<!-- in your body -->
+<i class="devicon-angularjs-plain"></i>
+
 ## You can found me at
 
 [<img src="https://img.icons8.com/ios-glyphs/38/000000/linkedin.png"/>](https://www.linkedin.com/in/ankan-sharma-589841198/)
