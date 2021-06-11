@@ -21,7 +21,7 @@
 [![iconfinder_7088889_medium_medium logo_icon_32px](https://user-images.githubusercontent.com/36896102/121735133-553fe500-cb13-11eb-8bc3-06b54689ec33.png)](https://ankanroni3.medium.com/)
 
 ### Languages and Tools
-![python](https://user-images.githubusercontent.com/36896102/121738417-d13c2c00-cb17-11eb-8c43-30598e3452b3.png)
+![python](https://user-images.githubusercontent.com/36896102/121738417-d13c2c00-cb17-11eb-8c43-30598e3452b3.png){:height="70px" width="40px"}
 ![pytorch-icon](https://user-images.githubusercontent.com/36896102/121738425-d39e8600-cb17-11eb-8b32-6070a804f8bb.png)
 ![tensorflow-icon](https://user-images.githubusercontent.com/36896102/121738431-d5684980-cb17-11eb-8944-5c2ac89e4de8.png)
 ![opencv-icon](https://user-images.githubusercontent.com/36896102/121738523-f29d1800-cb17-11eb-85bc-b93267cdad60.png)
