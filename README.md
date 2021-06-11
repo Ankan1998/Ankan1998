@@ -36,10 +36,11 @@
 
 
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 <!-- in your body -->
-<i class="devicon-angularjs-plain"></i>
+<i class="devicon-devicon-plain"></i>
 
 ## You can found me at
 
