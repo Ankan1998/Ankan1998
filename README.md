@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Ankan1998/Ankan1998/blob/main/header.png/>
+<img align="center" src="https://githubusercontent.com/Ankan1998/Ankan1998/blob/main/header.png"/>
 
 
 
