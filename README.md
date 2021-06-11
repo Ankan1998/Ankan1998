@@ -16,9 +16,9 @@
 ### Languages and Tools:
 
 [![iconfinder_317725_linkedin_social_icon_32px](https://user-images.githubusercontent.com/36896102/121735488-d13a2d00-cb13-11eb-9af1-f32bbc015e0b.png)](https://www.linkedin.com/in/ankan-sharma-589841198/)
-![iconfinder_4519136_kaggle_icon_32px](https://user-images.githubusercontent.com/36896102/121735391-b1a30480-cb13-11eb-952d-aba25e119c60.png)(https://www.kaggle.com/ankan1998)
-![iconfinder_317754_blog_blogger_blogging_icon_32px](https://user-images.githubusercontent.com/36896102/121735541-e7e08400-cb13-11eb-9e82-ae3477b3e490.png)(https://datasciencey.blogspot.com/)
-![iconfinder_7088889_medium_medium logo_icon_32px](https://user-images.githubusercontent.com/36896102/121735133-553fe500-cb13-11eb-8bc3-06b54689ec33.png)(https://ankanroni3.medium.com/)
+[![iconfinder_4519136_kaggle_icon_32px](https://user-images.githubusercontent.com/36896102/121735391-b1a30480-cb13-11eb-952d-aba25e119c60.png)](https://www.kaggle.com/ankan1998)
+[![iconfinder_317754_blog_blogger_blogging_icon_32px](https://user-images.githubusercontent.com/36896102/121735541-e7e08400-cb13-11eb-9e82-ae3477b3e490.png)](https://datasciencey.blogspot.com/)
+[![iconfinder_7088889_medium_medium logo_icon_32px](https://user-images.githubusercontent.com/36896102/121735133-553fe500-cb13-11eb-8bc3-06b54689ec33.png)](https://ankanroni3.medium.com/)
 
 
 
