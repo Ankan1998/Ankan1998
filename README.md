@@ -3,7 +3,8 @@
 
 
 
-- 💰 Jr. Automation Engineer at Allied Media | Visual Intelligence Lab
+- 💰 Jr. Associate Technology at Publicis Sapient
+- 👍 Learning Flutter, Firebase
 - 🔘 I’m currently focusing on deep learning
 - 😍 Areas of Interest Computer Vision, NLP and GAN
 - 👥 I’m looking to collaborate with developers on Research paper based Deep Learning Advanced Library
