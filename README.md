@@ -13,9 +13,8 @@
 - 🧿 Focusing on NLP
 
 ### Spotify Playing 🎧
+[<img align="center" src="https://user-images.githubusercontent.com/36896102/121746378-6db7fb80-cb23-11eb-84c8-1bb7308abc59.png" height="96" width="208"/>](https://open.spotify.com/embed/track/61fXT6uwJ2THPkbmxa65OI)
 
-[<img src="https://user-images.githubusercontent.com/36896102/121742558-9c32d800-cb1d-11eb-89ba-5b63b4de1d1e.jpg"height="64" width="64"/>]
-(https://open.spotify.com/user/61fXT6uwJ2THPkbmxa65OI)
 
 ### Connect With Me:
 
