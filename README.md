@@ -24,7 +24,7 @@
 [![iconfinder_7088889_medium_medium logo_icon_32px](https://user-images.githubusercontent.com/36896102/121735133-553fe500-cb13-11eb-8bc3-06b54689ec33.png)](https://ankanroni3.medium.com/)
 
 
-### Languages and Tools
+### Languages and Tools:
 <img align="left" src="https://user-images.githubusercontent.com/36896102/121738417-d13c2c00-cb17-11eb-8c43-30598e3452b3.png" height="32" width="32"/>
 <img align="left" src="https://user-images.githubusercontent.com/36896102/121738425-d39e8600-cb17-11eb-8b32-6070a804f8bb.png" height="32" width="32"/>
 <img align="left" src="https://user-images.githubusercontent.com/36896102/121738431-d5684980-cb17-11eb-8944-5c2ac89e4de8.png" height="32" width="32"/>
@@ -45,10 +45,10 @@
 
 <br>
 </br>
-==================================================================================================================================================================================
+<p>
+</p>
 
 ![Network - 45961 (1)_Trim](https://user-images.githubusercontent.com/36896102/121751724-55001380-cb2c-11eb-82e7-0255f95d488a.gif)
 
 
-==================================================================================================================================================================================
 
