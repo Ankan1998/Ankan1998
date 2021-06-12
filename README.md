@@ -53,6 +53,6 @@
 
 <p>
  </p> 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ankan1998&&show_icons=true&title_color=fffa2f&icon_color=bb2acf&text_color=daf7dc&bg_color=121519"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ankan1998&&show_icons=true&title_color=fffa2f&icon_color=bb2acf&text_color=daf7dc&bg_color=121519" width="396"/>
 <img align="right" src="https://user-images.githubusercontent.com/36896102/121768264-02017d00-cb7b-11eb-8fa0-dbfbcf25b539.png" height="202" width="428"/>
 
