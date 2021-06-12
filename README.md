@@ -43,16 +43,13 @@
 <img align="left" src="https://user-images.githubusercontent.com/36896102/121738702-3132d280-cb18-11eb-89ae-9fc44f8f00ed.png" height="32" width="32"/>
 
 
+
 <br>
-</br>
-<p>
-</p>
-
-![Network - 45961 (1)_Trim](https://user-images.githubusercontent.com/36896102/121751724-55001380-cb2c-11eb-82e7-0255f95d488a.gif)
 
 
-<p>
- </p> 
+### Stats: 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ankan1998&&show_icons=true&title_color=fffa2f&icon_color=bb2acf&text_color=daf7dc&bg_color=121519" height="172" width="396"/>
 <img align="right" src="https://user-images.githubusercontent.com/36896102/121768264-02017d00-cb7b-11eb-8fa0-dbfbcf25b539.png" height="172" width="396"/>
 
+
+<img src="https://user-images.githubusercontent.com/36896102/121751724-55001380-cb2c-11eb-82e7-0255f95d488a.gif"/>
