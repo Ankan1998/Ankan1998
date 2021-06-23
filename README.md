@@ -9,7 +9,7 @@
 - 😍 Areas of Interest Computer Vision, NLP and GAN
 - 👥 I’m looking to collaborate with developers on Research paper based Deep Learning Advanced Library
 - 👀 2021 Goals: Deep Dive into Advance Deep Learning Architecture
-- 💖 Hobbies: Digital art, History and geo-politics
+- 💖 Hobbies: Visual Entertainment, History and geo-politics
 - 🧿 Focusing on NLP
 
 ### Spotify Playing 🎧
