@@ -10,7 +10,7 @@
 - 👥 I’m looking to collaborate with developers on Research paper based Deep Learning Advanced Library
 - 👀 2021 Goals: Deep Dive into Advance Deep Learning Architecture
 - 💖 Hobbies: Visual Entertainment, History and geo-politics
-- 🧿 Focusing on NLP
+- 🧿 Focusing on NLP, GAN
 
 ### Spotify Playing 🎧
 [<img align="center" src="https://user-images.githubusercontent.com/36896102/121746378-6db7fb80-cb23-11eb-84c8-1bb7308abc59.png" height="96" width="208"/>](https://open.spotify.com/embed/track/61fXT6uwJ2THPkbmxa65OI)
