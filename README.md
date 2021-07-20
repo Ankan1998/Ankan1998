@@ -51,8 +51,8 @@
 <br>
 
 <p>
-<img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=Ankan1998&theme=tokyonight&hide_border=false" height="172" width="396"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=Ankan1998&theme=tokyonight&show_icons=true&count_private=true" height="172" width="396"/>
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=Ankan1998&theme=tokyonight&hide_border=false" height="190" width="400"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=Ankan1998&theme=tokyonight&show_icons=true&count_private=true" height="190" width="400"/>
 <!-- ![Ankan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Ankan1998&theme=tokyonight&hide_border=false)
 ![Ankan's GitHub activity graph](https://github-readme-stats.vercel.app/api/?username=Ankan1998&theme=tokyonight&show_icons=true&count_private=true) -->
 
@@ -69,5 +69,5 @@
 
 <p align="center">
 </p>
-<img src="https://user-images.githubusercontent.com/36896102/121751724-55001380-cb2c-11eb-82e7-0255f95d488a.gif"/>
+<!-- <img src="https://user-images.githubusercontent.com/36896102/121751724-55001380-cb2c-11eb-82e7-0255f95d488a.gif"/> -->
   
