@@ -51,6 +51,10 @@
 <p align="center">
 </p>
 <br>
+
+![Ankan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ankan1998&theme=xcode)
+
+
 <p align="center">
 </p>
 <img src="https://user-images.githubusercontent.com/36896102/121751724-55001380-cb2c-11eb-82e7-0255f95d488a.gif"/>
