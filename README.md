@@ -51,9 +51,10 @@
 <br>
 
 <p>
-
-![Ankan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Ankan1998&theme=tokyonight&hide_border=false)
-![Ankan's GitHub activity graph](https://github-readme-stats.vercel.app/api/?username=Ankan1998&theme=tokyonight&show_icons=true&count_private=true)
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=Ankan1998&theme=tokyonight&hide_border=false" height="172" width="396"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=Ankan1998&theme=tokyonight&show_icons=true&count_private=true" height="172" width="396"/>
+<!-- ![Ankan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Ankan1998&theme=tokyonight&hide_border=false)
+![Ankan's GitHub activity graph](https://github-readme-stats.vercel.app/api/?username=Ankan1998&theme=tokyonight&show_icons=true&count_private=true) -->
 
 </p>
   
