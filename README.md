@@ -12,8 +12,9 @@
 - 💖 Hobbies: Visual Entertainment, History and geo-politics
 - 🧿 Focusing on NLP, GAN
 
-### Spotify Playing 🎧
-[<img align="center" src="https://user-images.githubusercontent.com/36896102/121746378-6db7fb80-cb23-11eb-84c8-1bb7308abc59.png" height="96" width="208"/>](https://open.spotify.com/embed/track/61fXT6uwJ2THPkbmxa65OI)
+### Quote of the Day
+<img src="https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dark&animation=grow_out_in" height="300" width="850"/>
+
 
 
 ### Connect With Me:
