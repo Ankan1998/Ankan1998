@@ -13,9 +13,7 @@
 - 🧿 Focusing on NLP, GAN
 
 ### Quote of the Day
-<img src="https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dark&animation=grow_out_in" height="300" width="850"/>
-
-
+<img src="https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dark&animation=grow_out_in" height="200" width="950"/>
 
 ### Connect With Me:
 
