@@ -12,8 +12,8 @@
 - 💖 Hobbies: Visual Entertainment, History and geo-politics
 - 🧿 Focusing on NLP, GAN
 
-### Quote of the Day
-<img src="https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=tokyonight&animation=grow_out_in" height="200" width="950"/>
+<!-- ### Quote of the Day
+<img src="https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=tokyonight&animation=grow_out_in" height="200" width="950"/> -->
 
 ### Connect With Me:
 
