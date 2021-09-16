@@ -34,13 +34,14 @@
 <img align="left" src="https://user-images.githubusercontent.com/36896102/121738538-f6c93580-cb17-11eb-94ab-5d8824b9c17b.png" height="32" width="32"/>
 <img align="left" src="https://user-images.githubusercontent.com/36896102/121738574-00529d80-cb18-11eb-90aa-63b8ac0f06c4.png" height="32" width="32"/>
 <img align="left" src="https://www.pinclipart.com/picdir/big/107-1077742_kali-linux-kali-linux-logo-png-clipart.png" height="32" width="32"/>
+<img align="left" src="https://user-images.githubusercontent.com/36896102/121738678-2aa45b00-cb18-11eb-8161-0842d1432e83.png" height="32" width="32"/>
+<img align="left" src="https://user-images.githubusercontent.com/36896102/121738686-2c6e1e80-cb18-11eb-979c-853502418fa6.png" height="32" width="32"/>
+<img align="left" src="https://user-images.githubusercontent.com/36896102/122328107-ac4b1d00-cf4c-11eb-9265-986271eb057a.png" height="32" width="32"/>
 <img align="left" src="https://user-images.githubusercontent.com/36896102/121738595-0779ab80-cb18-11eb-9fe8-e43bdbfbaf51.png" height="32" width="32"/>
 <img align="left" src="https://user-images.githubusercontent.com/36896102/121738632-195b4e80-cb18-11eb-905e-026c3940910e.png" height="32" width="32"/>
 <img align="left" src="https://user-images.githubusercontent.com/36896102/121738638-1bbda880-cb18-11eb-9c21-eeead978ed5e.png" height="32" width="32"/>
 <img align="left" src="https://user-images.githubusercontent.com/36896102/121738667-28420100-cb18-11eb-8b75-c4bfbed6613a.png" height="32" width="32"/>
-<img align="left" src="https://user-images.githubusercontent.com/36896102/121738678-2aa45b00-cb18-11eb-8161-0842d1432e83.png" height="32" width="32"/>
-<img align="left" src="https://user-images.githubusercontent.com/36896102/121738686-2c6e1e80-cb18-11eb-979c-853502418fa6.png" height="32" width="32"/>
-<img align="left" src="https://user-images.githubusercontent.com/36896102/122328107-ac4b1d00-cf4c-11eb-9265-986271eb057a.png" height="32" width="32"/>
+
 
 <br>
 
