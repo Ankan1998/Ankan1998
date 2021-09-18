@@ -7,10 +7,9 @@
 - 👍 Learning Flutter, Firebase
 - 🔘 I’m currently focusing on deep learning
 - 😍 Areas of Interest Computer Vision, NLP and GAN
-- 👥 I’m looking to collaborate with developers on Research paper based Deep Learning Advanced Library
 - 👀 2021 Goals: Deep Dive into Advance Deep Learning Architecture
 - 💖 Hobbies: Visual Entertainment, History and geo-politics
-- 🧿 Focusing on NLP, GAN
+- 🧿 Focusing on NLP, GAN, Graph ML
 
 <!-- ### Quote of the Day
 <img src="https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=tokyonight&animation=grow_out_in" height="200" width="950"/> -->
