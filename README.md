@@ -8,7 +8,7 @@
 - 🔘 I’m currently focusing on deep learning
 - 😍 Areas of Interest Computer Vision, NLP and GAN
 - 👀 2021 Goals: Deep Dive into Advance Deep Learning Architecture
-- 💖 Hobbies: Visual Entertainment, History and geo-politics
+- 💖 Hobbies: Visual Entertainment, History, geo-politics and Chess
 - 🧿 Focusing on NLP, GAN, Graph ML
 
 <!-- ### Quote of the Day
