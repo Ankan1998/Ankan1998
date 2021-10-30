@@ -24,22 +24,22 @@
 
 
 ### Languages and Tools:
-<img align="left" src="https://user-images.githubusercontent.com/36896102/121738417-d13c2c00-cb17-11eb-8c43-30598e3452b3.png" height="32" width="32"/>
-<img align="left" src="https://user-images.githubusercontent.com/36896102/121738425-d39e8600-cb17-11eb-8b32-6070a804f8bb.png" height="32" width="32"/>
-<img align="left" src="https://user-images.githubusercontent.com/36896102/121738431-d5684980-cb17-11eb-8944-5c2ac89e4de8.png" height="32" width="32"/>
-<img align="left" src="https://pytorch-geometric.readthedocs.io/en/latest/_static/pyg2.png" height="32" width="32"/>
-<img align="left" src="https://user-images.githubusercontent.com/36896102/121738523-f29d1800-cb17-11eb-85bc-b93267cdad60.png" height="32" width="32"/>
-<img align="left" src="https://user-images.githubusercontent.com/36896102/121738532-f4ff7200-cb17-11eb-8747-fd79e3745ff2.png" height="32" width="32"/>
-<img align="left" src="https://user-images.githubusercontent.com/36896102/121738538-f6c93580-cb17-11eb-94ab-5d8824b9c17b.png" height="32" width="32"/>
-<img align="left" src="https://user-images.githubusercontent.com/36896102/121738574-00529d80-cb18-11eb-90aa-63b8ac0f06c4.png" height="32" width="32"/>
-<img align="left" src="https://www.pinclipart.com/picdir/big/107-1077742_kali-linux-kali-linux-logo-png-clipart.png" height="32" width="32"/>
-<img align="left" src="https://user-images.githubusercontent.com/36896102/121738678-2aa45b00-cb18-11eb-8161-0842d1432e83.png" height="32" width="32"/>
-<img align="left" src="https://user-images.githubusercontent.com/36896102/121738686-2c6e1e80-cb18-11eb-979c-853502418fa6.png" height="32" width="32"/>
-<img align="left" src="https://user-images.githubusercontent.com/36896102/122328107-ac4b1d00-cf4c-11eb-9265-986271eb057a.png" height="32" width="32"/>
-<img align="left" src="https://avatars.githubusercontent.com/u/55202745?s=200&v=4" height="32" width="32"/>
-<img align="left" src="https://user-images.githubusercontent.com/36896102/121738595-0779ab80-cb18-11eb-9fe8-e43bdbfbaf51.png" height="32" width="32"/>
-<img align="left" src="https://user-images.githubusercontent.com/36896102/121738632-195b4e80-cb18-11eb-905e-026c3940910e.png" height="32" width="32"/>
-<img align="left" src="https://user-images.githubusercontent.com/36896102/121738638-1bbda880-cb18-11eb-9c21-eeead978ed5e.png" height="32" width="32"/>
+<img align="left" src="https://user-images.githubusercontent.com/36896102/121738417-d13c2c00-cb17-11eb-8c43-30598e3452b3.png" height="25" width="25"/>
+<img align="left" src="https://user-images.githubusercontent.com/36896102/121738425-d39e8600-cb17-11eb-8b25-6070a804f8bb.png" height="25" width="25"/>
+<img align="left" src="https://user-images.githubusercontent.com/36896102/121738431-d5684980-cb17-11eb-8944-5c2ac89e4de8.png" height="25" width="25"/>
+<img align="left" src="https://pytorch-geometric.readthedocs.io/en/latest/_static/pyg2.png" height="25" width="25"/>
+<img align="left" src="https://user-images.githubusercontent.com/36896102/121738523-f29d1800-cb17-11eb-85bc-b92567cdad60.png" height="25" width="25"/>
+<img align="left" src="https://user-images.githubusercontent.com/36896102/121738525-f4ff7200-cb17-11eb-8747-fd79e3745ff2.png" height="25" width="25"/>
+<img align="left" src="https://user-images.githubusercontent.com/36896102/121738538-f6c93580-cb17-11eb-94ab-5d8824b9c17b.png" height="25" width="25"/>
+<img align="left" src="https://user-images.githubusercontent.com/36896102/121738574-00529d80-cb18-11eb-90aa-63b8ac0f06c4.png" height="25" width="25"/>
+<img align="left" src="https://www.pinclipart.com/picdir/big/107-1077742_kali-linux-kali-linux-logo-png-clipart.png" height="25" width="25"/>
+<img align="left" src="https://user-images.githubusercontent.com/36896102/121738678-2aa45b00-cb18-11eb-8161-0842d1425e83.png" height="25" width="25"/>
+<img align="left" src="https://user-images.githubusercontent.com/36896102/121738686-2c6e1e80-cb18-11eb-979c-853502418fa6.png" height="25" width="25"/>
+<img align="left" src="https://user-images.githubusercontent.com/36896102/122258107-ac4b1d00-cf4c-11eb-9265-986271eb057a.png" height="25" width="25"/>
+<img align="left" src="https://avatars.githubusercontent.com/u/55202745?s=200&v=4" height="25" width="25"/>
+<img align="left" src="https://user-images.githubusercontent.com/36896102/121738595-0779ab80-cb18-11eb-9fe8-e43bdbfbaf51.png" height="25" width="25"/>
+<img align="left" src="https://user-images.githubusercontent.com/36896102/121738625-195b4e80-cb18-11eb-905e-026c3940910e.png" height="25" width="25"/>
+<img align="left" src="https://user-images.githubusercontent.com/36896102/121738638-1bbda880-cb18-11eb-9c21-eeead978ed5e.png" height="25" width="25"/>
 
 
 
