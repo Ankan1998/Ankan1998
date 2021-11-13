@@ -12,6 +12,7 @@
 - 👀 2021 Goals: Deep Dive into Advance Deep Learning Architecture
 - 💖 Hobbies: Visual Entertainment, History, geo-politics and Chess
 - 🧿 Focusing on NLP, GAN, Graph ML
+- 📖 Started with Web development
 
 <br>
 
