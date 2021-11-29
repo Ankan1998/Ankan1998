@@ -16,9 +16,9 @@
 
 <br>
 
-## Quote of the Day
+<!-- ## Quote of the Day
 
-<img src="https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=tokyonight&animation=grow_out_in" height="200" width="950"/>
+<img src="https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=tokyonight&animation=grow_out_in" height="200" width="950"/> -->
 
 
 
