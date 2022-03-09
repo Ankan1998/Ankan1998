@@ -5,7 +5,7 @@
  
 
 
-- 💰 Associate Technology L1 at Publicis Sapient
+- 💰 Developer Mobile Solutions at Publicis Sapient
 - 👍 Learning Flutter, Firebase
 - 🔘 I’m currently focusing on deep learning
 - 😍 Areas of Interest Computer Vision, NLP and GAN
