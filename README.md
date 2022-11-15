@@ -4,8 +4,6 @@
   <br>
  
 
-
-- 💰 Developer Mobile Solutions at Publicis Sapient
 - 📱 Professional Experience in Cross-Platform Mobile development in Flutter
 - 💻 Learning Microservices
 - 😍 Interested in Computer Vision, NLP, GAN and GraphML
