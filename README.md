@@ -6,11 +6,10 @@
 
 
 - 💰 Developer Mobile Solutions at Publicis Sapient
-- 👍 Learning Flutter, Firebase
-- 😍 Areas of Interest Computer Vision, NLP and GAN
-- 👀 2022 Goals: Reading and Implementing Deep Learning Research Papers
-- 💖 Hobbies: Technical Blogging, History, geo-politics and Chess
-- 🧿 Focusing on NLP, GAN, Graph ML
+- 📱 Professional Experience in Cross-Platform Mobile development in Flutter
+- 💻 Learning Microservices
+- 😍 Interested in Computer Vision, NLP, GAN and GraphML
+- 💖 Hobbies: Technical Blogging, Geo-politics and Chess
 
 <br>
 
