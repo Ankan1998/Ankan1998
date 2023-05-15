@@ -103,7 +103,7 @@
 <p align="center">
 </p>
 
-<img align="left" src="[https://activity-graph.herokuapp.com/graph?username=Ankan1998&theme=gotham](https://github-readme-activity-graph.cyclic.app/graph??username=Ankan1998&theme=gotham)" height="350" width="850"/>
+<img align="left" src="https://github-readme-activity-graph.cyclic.app/graph??username=Ankan1998&theme=gotham" height="350" width="850"/>
 
 <!-- ![Ankan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ankan1998&theme=react-dark) -->
 
