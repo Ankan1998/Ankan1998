@@ -89,15 +89,21 @@
 
 
 
-<br>
+<br><p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankan1998&hide=jupyter%20notebook&layout=donut" height="200" width="400"/></p>
+<table>
+    
 
-<p>
-<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Ankan1998&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" height="200" width="350"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=Ankan1998&theme=gotham&show_icons=true&count_private=true" height="200" width="350"/>
-<!-- ![Ankan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Ankan1998&theme=tokyonight&hide_border=false)
-![Ankan's GitHub activity graph](https://github-readme-stats.vercel.app/api/?username=Ankan1998&theme=tokyonight&show_icons=true&count_private=true) -->
 
-</p>
+  <tr>
+    <td>
+      <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ankan1998&theme=gotham&date_format=M%20j%5B%2C%20Y%5D" height="200" width="350"/>
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Ankan1998&theme=gotham&show_icons=true&count_private=true" height="200" width="350"/>
+    </td>
+  </tr>
+</table>
   
   
 <p align="center">
