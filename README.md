@@ -4,7 +4,7 @@
   <br>
  
 
-- 📱 Professional Experience in Cross-Platform Mobile development in Flutter, Native Android Development in Kotlin
+- 📱 Professional Experience in Python Backend,SQL/NO-SQL/Graph/Vector Databases, Mobile App development in Flutter 
 - 💻 Learning Microservices
 - 😍 Interested in Computer Vision, NLP, GAN and GraphML
 - 💖 Hobbies: Technical Blogging, Geo-politics and Chess
